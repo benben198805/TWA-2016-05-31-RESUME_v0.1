@@ -1,0 +1,38 @@
+ul{
+    list-style: none;
+}
+main-backgroundcolor{
+    background:#eee;
+}
+.white-background{
+     background:#fff;
+}
+#top-photo{
+     margin-top:100px;
+     background:#fff;
+}
+#top-photo #photo-img{
+    height: 220px;
+    border-radius: 50%;
+}
+
+#top-photo #photo-img img{
+    height:200px;
+    margin-top:-90px;
+}
+#top-photo #desc-text{
+    margin-top:-90px;
+    border-bottom:1px double #eee;
+}
+.edu-year{
+    width:10%;padding-top:10px;
+}   
+.edu-desc{
+    width:90%;
+}  
+.contact-height{
+    height:50px;
+}   
+.contact-btn{
+    margin-right:10px;
+}
